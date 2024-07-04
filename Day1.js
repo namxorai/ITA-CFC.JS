@@ -10,7 +10,9 @@ const address = "Dharan"
 
 const me = {
 name : "namxo",
-age : '0',
+age : 0,
 address : "Dharan",
 }
+
+
 
