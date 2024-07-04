@@ -137,5 +137,12 @@ function haha(info){
     console.log(info.code[0].ipAddress)
 }
 haha(info)
+//other way
+const haha = (info) =>{
+    console.log(info.code[0].userId)
+    console.log(info.code[0].title)
+    console.log(info.code[0].ipAddress)
+}
+
 
 
